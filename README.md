@@ -1,5 +1,9 @@
 # Awesome-Flutter-Web
 
+Despite being under the beta stage (27.01.2020), Flutter Web might show you pretty impressive web apps. Take a look at some of them.
+
+If you want to share any of web apps that were written in Flutter, please send a PR.
+
 - [Flutter Web Demo](http://minikin.me/flutter-web-demo/#/) - https://github.com/minikin/flutter-web-demo
 
 ![Flutter Web Demo](images/flutter_web_demo.jpg)
