@@ -24,4 +24,6 @@ If you want to share any of web apps that were written in Flutter, please send a
 
 ![Flutter Web Example](images/flutter_web_example.jpg)
 
-- Flutter Corsdetector - https://github.com/mikegazzaruso/flutter_corsdetector
+- [Flutter Corsdetector](http://neevashramdial.me/furniture-flutter-web/#/) - https://github.com/mikegazzaruso/flutter_corsdetector
+
+![Flutter Corsdetector](images/flutter_corsdetector.jpg)
