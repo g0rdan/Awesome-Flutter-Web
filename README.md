@@ -4,6 +4,10 @@ Despite being under the beta stage (27.01.2020), Flutter Web might show you pret
 
 If you want to share any of web apps that were written in Flutter, please send a PR.
 
+- [Anna Domashych's personal page](https://foxanna.github.io/#/) - https://github.com/foxanna/foxanna.github.io
+
+![Anna Domashych's personal page](images/foxanna_github_io.png)
+
 - [Flutter Web Demo](http://minikin.me/flutter-web-demo/#/) - https://github.com/minikin/flutter-web-demo
 
 ![Flutter Web Demo](images/flutter_web_demo.jpg)
